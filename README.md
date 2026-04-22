@@ -29,13 +29,32 @@ In traditional learning, costs can be a barrier. SkillSwap solves this by treati
 ✅ Admin Control Panel: Specialized dashboard to manage users and moderate posts for platform safety.
 
 # >> Project Preview
-UI Screenshots
+# UI Screenshots
 
 Login Page
 ![image alt](https://github.com/SnowDrop23/SkillSwap/blob/77bb48f844e14c26eaa2ca716a9bba67b30e78a6/Screenshot%202026-04-22%20224606.png)
 
+Registration Page
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/register.png)
+
+User Dashboard
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/loged%20in%20as%20user.png)
+Post a new skill
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/post%20a%20new%20skill.png)
+My request
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/my%20request.png)
+Admin:
+Dashboard
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/admin_dashboard.png)
+Manage Users
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/manage_users.png)
+Manage Posts
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/manage_posts.png)
+View User Dashboard
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/adminViewUser.png)
+
 ER Diagram
- 
+![image alt]()
 
 
 # >> Tech Stack
