@@ -43,18 +43,17 @@ Post a new skill
 ![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/post%20a%20new%20skill.png)
 My request
 ![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/my%20request.png)
-Admin:
-Dashboard
+Admin: Dashboard
 ![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/admin_dashboard.png)
-Manage Users
+Admin: Manage Users
 ![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/manage_users.png)
-Manage Posts
+Admin: Manage Posts
 ![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/manage_posts.png)
-View User Dashboard
+Admin: View User Dashboard
 ![image alt](https://github.com/SnowDrop23/SkillSwap/blob/2bef387ec524969ded74509e30dd2bb07ede634f/adminViewUser.png)
 
 ER Diagram
-![image alt]()
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/4ecf7c3fa2437554146fcd0548970be28d167066/er%20diagram.jpeg)
 
 
 # >> Tech Stack
@@ -68,22 +67,21 @@ Built with PHP, handling session management, user authentication, and the logic 
 Powered by MySQL. The database is designed with normalized tables including users, skills, and requests. It utilizes relational mapping to connect "Senders" and "Receivers" in the exchange process.
 
 # >> Installation & Setup
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/snowdrop23/SkillSwap.git
 
-# 2. Move to your local server directory
-# (C:/xampp/htdocs/SkillSwap)
+2. Move to your local server directory
+(C:/xampp/htdocs/SkillSwap)
 
-# 3. Database Setup
-# Import the provided .sql file into your local phpMyAdmin
-# Create a database named: skill_exchange_db
+3. Database Setup
+Import the provided .sql file into your local phpMyAdmin
+Create a database named: skill_exchange_db
 
-# 4. Configure Database
-# Edit db_config.php with your local MySQL credentials
+4. Configure Database
+Edit db_config.php with your local MySQL credentials
 
-# 5. Run the Project
-# Open your browser and go to:
-http://localhost/SKILL_EXCHANGE_PLATFORM/
+5. Run the Project
+Open your browser and go to: http://localhost/SKILL_EXCHANGE_PLATFORM/
 
 # >> Project Structure
 SKILL_EXCHANGE_PLATFORM
