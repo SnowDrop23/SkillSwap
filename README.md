@@ -31,7 +31,8 @@ In traditional learning, costs can be a barrier. SkillSwap solves this by treati
 # >> Project Preview
 UI Screenshots
 
-
+Login Page
+![image alt](https://github.com/SnowDrop23/SkillSwap/blob/77bb48f844e14c26eaa2ca716a9bba67b30e78a6/Screenshot%202026-04-22%20224606.png)
 
 ER Diagram
  
