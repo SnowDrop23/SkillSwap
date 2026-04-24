@@ -16,7 +16,7 @@ SkillSwap is a dynamic web platform that facilitates peer-to-peer learning by al
 | **Taniya Rashid Habiba** | 241-115-058 | 25% | Frontend Development (UI/UX) |
 | **Dipannita Bardhan** | 241-115-063 | 25% | Backend Development (Logic and Auth) |
 | **Adiba Jannat** | 241-115-097 | 25% | Database Management (SQL & Schema) |
-| **Tomalika Toma** | 241-115-066 | 25% | Admin Dashboard & Search filter |
+| **Tomalika Paul Toma** | 241-115-066 | 25% | Admin Dashboard & Search filter |
 
 # >> Objective
 In traditional learning, costs can be a barrier. SkillSwap solves this by treating "skills" as currency. It aims to bridge the gap between mentors and learners within a university or local community, providing an organized digital space to request, manage, and track skill-sharing sessions.
